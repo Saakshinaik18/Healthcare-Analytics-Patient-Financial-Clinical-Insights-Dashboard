@@ -105,25 +105,6 @@ Monitor healthcare costs
 Enhance patient care planning
 Support data-driven decision-making
 
-Project Structure
-Healthcare-Analytics/
-│
-├── Dataset/
-│   └── healthcare_data.csv
-│
-├── SQL/
-│   └── healthcare_queries.sql
-│
-├── Python/
-│   └── healthcare_eda.ipynb
-│
-├── PowerBI/
-│   └── Healthcare_Dashboard.pbix
-│
-├── Images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
 
 Future Enhancements
 Readmission Rate Analysis
